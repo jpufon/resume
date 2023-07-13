@@ -124,6 +124,14 @@ h2{
     display: flex;
     justify-content: space-around;
 }
+.link-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .subtext {
+    margin-right: 10px; /* Adjust the spacing between the links */
+  }
 @media only screen and (max-width:1000px){
     .project-container{
         display: flex;
